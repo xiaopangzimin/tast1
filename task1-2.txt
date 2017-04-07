@@ -1,0 +1,289 @@
+<!Doctype html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>task-1</title>
+    <style>body {
+    background-color: #dedede;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+h2 {
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+h3 {
+    padding-bottom: 5px;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+p {
+    text-indent: 2em;
+}
+
+#nav {
+    background: #333333;
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+
+#nav img {
+    margin-top: 10px;
+    height: 50px;
+    margin-left: 15px;
+    vertical-align: middle;
+}
+
+#nav ul {
+    display: inline;
+    list-style: none;
+    float: right;
+}
+
+#nav li {
+    display: inline;
+    margin-right: 15px;
+    color: white;
+    line-height: 80px;
+}
+
+.box {
+    background-color: #ffffff;
+    margin: 30px auto;
+    box-shadow: 3px 3px 3px #848484;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin: 30px auto;
+    width: 90%;
+    padding: 30px;
+}
+
+.box ul {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.box ul li {
+    display: block;
+    margin-top: 20px;
+}
+
+.imgb {
+    border: 2px solid grey;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+#sideline {
+    border-left: 3px solid grey;
+    padding-left: 10px;
+    height: 50px;
+    line-height: 50px;
+    padding-bottom: 0;
+}
+
+ol {
+    padding-left: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+}
+
+td,
+tr,
+th {
+    border: thin solid #dedede;
+    text-align: center;
+}
+
+tr {
+    width: 50px;
+}
+
+#tabhead {
+    background: #312F2F;
+    color: #FFFFFF;
+}
+
+#tabfoot {
+    background: #dedede;
+}
+#formstyle{
+	margin-left:300px;
+}
+#radioinput {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 100%;
+    display: inline-block;
+    height: 16px;
+    margin-right: 10px;
+    margin-top: -1px;
+    vertical-align: middle;
+    width: 16px;
+    line-height: 1;
+}
+#submitbg{
+	background-color: #3864FC;
+	width: 100%;
+	height:50px;
+	line-height: 50px;
+	border-radius: 10px;
+	color:#FFFFFF;
+	font-size:17px;
+}
+#footer{
+	background: #333333;
+    width: 100%;
+    height: 80px;
+}
+#footer p{
+	color:#FFFFFF;
+	text-align: center;
+	line-height: 80px;
+	font-size: 10px;
+}
+</style>
+</head>
+
+<body>
+    <div id="nav">
+        <img src="image/logo.png" />
+        <ul>
+            <li>导航链接1</li>
+            <li>导航链接2</li>
+            <li>导航链接3</li>
+            <li>导航链接4</li>
+        </ul>
+    </div>
+    <div class="box">
+        <h1>另类的小胖子</h1>
+        <h2>小胖子文章二级标题</h2>
+        <h3>文章作者 文章发表时间</h3>
+        <p>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</br>
+            我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</p>
+        <img src="image/lanpangzi.jpeg">
+        <p>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</br>
+            我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</p>
+    </div>
+    <div class="box">
+        <h1>另类的小胖子</h1>
+        <h2>小胖子文章二级标题</h2>
+        <h3>文章作者 文章发表时间</h3>
+        <p>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</br>
+            我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</p>
+        <img src="image/lanpangzi.jpeg">
+        <ul>
+            <li>蓝胖子</li>
+            <li>绿胖子</li>
+            <li>红胖子</li>
+        </ul>
+    </div>
+    <div class="box">
+        <h1>蓝胖子</h1>
+        <ul>
+            <li>
+                <div class="imgb">
+                    <p>可爱的蓝胖子
+                        <br><img src="haha.jpeg"></p>
+                </div>
+            </li>
+            <li>
+                <div class="imgb">
+                    <p>可爱的蓝胖子
+                        <br><img src="haha.jpeg"></p>
+                </div>
+            </li>
+            <li>
+                <div class="imgb">
+                    <p>可爱的蓝胖子
+                        <br><img src="haha.jpeg"></p>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="box">
+        <h1>最后的小胖子</h1>
+        <h2>小胖子文章二级标题</h2>
+        <h3>文章作者 文章发表时间</h3>
+        <ol>
+            <li>排名1</li>
+            <li>排名2</li>
+            <li>排名3</li>
+        </ol>
+        <p>下面是一个表格。</p>
+        <table>
+            <tr id="tabhead">
+                <th>表头</th>
+                <th>表头</th>
+                <th>表头</th>
+            </tr>
+            <tr>
+                <td>蓝胖子</td>
+                <td>蓝胖子</td>
+                <td>蓝胖子</td>
+            </tr>
+            <tr>
+                <td>蓝胖子</td>
+                <td>蓝胖子</td>
+                <td>蓝胖子</td>
+            </tr>
+            <tr id="tabfoot">
+                <td>总计</td>
+                <td colspan="2">1000</td>
+            </tr>
+        </table>
+    </div>
+    <div class="box">
+        <h1 id="sideline">这里以后是一个侧栏，这是侧栏标题</h1>
+        <form action=" " method="post">
+        <div id="formstyle">
+            请输入邮箱地址：
+            <input type="text" name="1" value="这是一个文本输入框">
+            <br>邮箱地址请按要求格式输入
+            <br>
+            <br>请输入密码：
+            <input type="password">
+            <br> 请重复输入密码：
+            <input type="password">
+            <br> 密码请为6-16位英文数字
+            <br>
+            <br> 性别：
+            <input type="radio" name="男" checked="checked"><span class="radioinput"></span>男
+            <input type="radio" name="女">女
+            <br> 城市：
+            <select>
+                <option name="北京" value="北京">北京</option>
+                <option name="上海" value="上海">上海</option>
+            </select>
+            <br> 爱好：
+            <input type="checkbox" name="爱好">运动
+            <input type="checkbox" name="爱好" checked="checked">艺术
+            <input type="checkbox" name="爱好">科学
+            <br> 个人描述：
+            <textarea>这是一个多行输入框，输入您的个人描</textarea><br>
+            </div>
+            <input type="submit" value="确定提交" id="submitbg">
+        </form>
+    </div>
+    <div id="footer">
+        <p>版权所有&copy;</p>
+    </div>
+</body>
