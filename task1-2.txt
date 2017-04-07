@@ -3,7 +3,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <title>task-1</title>
-    <style>body {
+<style>
+body {
     background-color: #dedede;
 }
 
@@ -167,123 +168,123 @@ tr {
     <div id="nav">
         <img src="image/logo.png" />
         <ul>
-            <li>��������1</li>
-            <li>��������2</li>
-            <li>��������3</li>
-            <li>��������4</li>
+            <li>导航链接1</li>
+            <li>导航链接2</li>
+            <li>导航链接3</li>
+            <li>导航链接4</li>
         </ul>
     </div>
     <div class="box">
-        <h1>�����С����</h1>
-        <h2>С�������¶�������</h2>
-        <h3>�������� ���·���ʱ��</h3>
-        <p>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�<a href="http://ife.baidu.com">����һ������</a>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�</br>
-            ����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�<a href="http://ife.baidu.com">����һ������</a>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�</p>
+        <h1>另类的小胖子</h1>
+        <h2>小胖子文章二级标题</h2>
+        <h3>文章作者 文章发表时间</h3>
+        <p>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</br>
+            我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</p>
         <img src="image/lanpangzi.jpeg">
-        <p>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�<a href="http://ife.baidu.com">����һ������</a>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�</br>
-            ����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�<a href="http://ife.baidu.com">����һ������</a>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�</p>
+        <p>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</br>
+            我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</p>
     </div>
     <div class="box">
-        <h1>�����С����</h1>
-        <h2>С�������¶�������</h2>
-        <h3>�������� ���·���ʱ��</h3>
-        <p>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�<a href="http://ife.baidu.com">����һ������</a>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�</br>
-            ����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�<a href="http://ife.baidu.com">����һ������</a>����С���ӣ��Ұ��԰��Ȱ����֡�����С���ӣ��Ұ��԰��Ȱ����֡�</p>
+        <h1>另类的小胖子</h1>
+        <h2>小胖子文章二级标题</h2>
+        <h3>文章作者 文章发表时间</h3>
+        <p>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</br>
+            我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。<a href="http://ife.baidu.com">这是一个链接</a>我是小胖子，我爱吃爱喝爱玩乐。我是小胖子，我爱吃爱喝爱玩乐。</p>
         <img src="image/lanpangzi.jpeg">
         <ul>
-            <li>������</li>
-            <li>������</li>
-            <li>������</li>
+            <li>蓝胖子</li>
+            <li>绿胖子</li>
+            <li>红胖子</li>
         </ul>
     </div>
     <div class="box">
-        <h1>������</h1>
+        <h1>蓝胖子</h1>
         <ul>
             <li>
                 <div class="imgb">
-                    <p>�ɰ���������
+                    <p>可爱的蓝胖子
                         <br><img src="haha.jpeg"></p>
                 </div>
             </li>
             <li>
                 <div class="imgb">
-                    <p>�ɰ���������
+                    <p>可爱的蓝胖子
                         <br><img src="haha.jpeg"></p>
                 </div>
             </li>
             <li>
                 <div class="imgb">
-                    <p>�ɰ���������
+                    <p>可爱的蓝胖子
                         <br><img src="haha.jpeg"></p>
                 </div>
             </li>
         </ul>
     </div>
     <div class="box">
-        <h1>����С����</h1>
-        <h2>С�������¶�������</h2>
-        <h3>�������� ���·���ʱ��</h3>
+        <h1>最后的小胖子</h1>
+        <h2>小胖子文章二级标题</h2>
+        <h3>文章作者 文章发表时间</h3>
         <ol>
-            <li>����1</li>
-            <li>����2</li>
-            <li>����3</li>
+            <li>排名1</li>
+            <li>排名2</li>
+            <li>排名3</li>
         </ol>
-        <p>������һ������</p>
+        <p>下面是一个表格。</p>
         <table>
             <tr id="tabhead">
-                <th>��ͷ</th>
-                <th>��ͷ</th>
-                <th>��ͷ</th>
+                <th>表头</th>
+                <th>表头</th>
+                <th>表头</th>
             </tr>
             <tr>
-                <td>������</td>
-                <td>������</td>
-                <td>������</td>
+                <td>蓝胖子</td>
+                <td>蓝胖子</td>
+                <td>蓝胖子</td>
             </tr>
             <tr>
-                <td>������</td>
-                <td>������</td>
-                <td>������</td>
+                <td>蓝胖子</td>
+                <td>蓝胖子</td>
+                <td>蓝胖子</td>
             </tr>
             <tr id="tabfoot">
-                <td>�ܼ�</td>
+                <td>总计</td>
                 <td colspan="2">1000</td>
             </tr>
         </table>
     </div>
     <div class="box">
-        <h1 id="sideline">�����Ժ���һ�����������ǲ�������</h1>
+        <h1 id="sideline">这里以后是一个侧栏，这是侧栏标题</h1>
         <form action=" " method="post">
         <div id="formstyle">
-            �����������ַ��
-            <input type="text" name="1" value="����һ���ı������">
-            <br>�����ַ�밴Ҫ���ʽ����
+            请输入邮箱地址：
+            <input type="text" name="1" value="这是一个文本输入框">
+            <br>邮箱地址请按要求格式输入
             <br>
-            <br>���������룺
+            <br>请输入密码：
             <input type="password">
-            <br> ���ظ��������룺
+            <br> 请重复输入密码：
             <input type="password">
-            <br> ������Ϊ6-16λӢ������
+            <br> 密码请为6-16位英文数字
             <br>
-            <br> �Ա�
-            <input type="radio" name="��" checked="checked"><span class="radioinput"></span>��
-            <input type="radio" name="Ů">Ů
-            <br> ���У�
+            <br> 性别：
+            <input type="radio" name="男" checked="checked"><span class="radioinput"></span>男
+            <input type="radio" name="女">女
+            <br> 城市：
             <select>
-                <option name="����" value="����">����</option>
-                <option name="�Ϻ�" value="�Ϻ�">�Ϻ�</option>
+                <option name="北京" value="北京">北京</option>
+                <option name="上海" value="上海">上海</option>
             </select>
-            <br> ���ã�
-            <input type="checkbox" name="����">�˶�
-            <input type="checkbox" name="����" checked="checked">����
-            <input type="checkbox" name="����">��ѧ
-            <br> ����������
-            <textarea>����һ������������������ĸ�����</textarea><br>
+            <br> 爱好：
+            <input type="checkbox" name="爱好">运动
+            <input type="checkbox" name="爱好" checked="checked">艺术
+            <input type="checkbox" name="爱好">科学
+            <br> 个人描述：
+            <textarea>这是一个多行输入框，输入您的个人描</textarea><br>
             </div>
-            <input type="submit" value="ȷ���ύ" id="submitbg">
+            <input type="submit" value="确定提交" id="submitbg">
         </form>
     </div>
     <div id="footer">
-        <p>��Ȩ����&copy;</p>
+        <p>版权所有&copy;</p>
     </div>
 </body>
