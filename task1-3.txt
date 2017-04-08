@@ -5,13 +5,60 @@
     <meta charset="UTF-8">
     <title>task1-3</title>
     <link rel="stylesheet" type="text/css" href="task1-3.css">
+    <style>
+    #bg{
+	background-color: #eee;
+	border:1px solid #999;
+	margin:20px;
+	max-height:800px;
+	position: relative;
+	margin-bottom: 500px;
+}
+.left{
+	margin: 20px;
+	border:1px solid #999;
+	float:left;
+	width:170px;
+	padding: 20px;
+	background: #FFFFFF;
+}
+.left img{
+	width:80px;
+	display: inline;
+}
+.left p{
+	display:inline;
+	vertical-align: top;
+	margin-left: 20px;
+}
+.right{
+	border:1px solid #999;
+	float:right;
+	background: #FFFFFF;
+	margin-right: 20px;
+	margin-top: 20px;
+	display: inline-block;
+}
+.right img{
+	width:80px;
+	display:block;
+	margin:20px;
+}
+.main{
+	margin: 20px 160px 20px 250px;
+	border:1px solid #999;
+	padding:4px 20px;
+	background: #FFFFFF;
+	overflow: hidden;
+}
+    </style>
 </head>
 
 <body>
     <div id="bg">
         <div class="left">
             <img src="haha.jpeg">
-            <p>�Ŷ�����</p>
+            <p>团队名称</p>
         </div>
         
         <div class="right">
@@ -21,15 +68,15 @@
             <img src="haha.jpeg">
         </div>
         <div class="main">
-            <p>���������ӵĽ���</p>
-            <p>�������һ�������ӵ����������ĺ����ѣ���Ը������</p>
-            <p>�����ڿ�ʼ���ܣ�</p>
-            <p>����A����2112��9��3������֥�����������ޥĥ��й�����MATSUSHIBA��������è�ͻ����ˡ�2115��1��19�գ�����A�ο�ʼ��æ�չ����ޡ���Ȼ����A���Կ�������ı�ĸ����è�������ڿ���ͭ���յĕr�򲻹�С���Ѿ�ֱ�ӱ�ȥ�ԣ���ͭ���տ��ñ�С������Ҫ�Ļ��������ǲ��ܷ����ġ�2112��9��2�գ�����A������ͭ����������˯�����������ȴ�������ҧ�������Ӵ�֮�󣬶���A�ξͺ��������ˡ�2122��9��2�գ�Ů���Ѷ��������صش�����̽�������ȴ��Ϊ����A����ȫ�]�˶����Ц��������A�κ��ѹ������������ɫ��֮�󣬶���A�α�������֮�л؁� 21 �����չ˴��ۣ���˶���A������Ʒ�е����������һ����10�ꡣ</p>
-            <p>�����ӵĺ�����</p>
-            <p>���ۣ�1964��8��7�ճ�����ԭ��ΪСѧ4�꼶��ѧ����������ΪСѧ5�꼶������A�θ����չ˵Ķ����ֱ����������Ρ�����Ҳ���ã�Ҳ�����ų�������������ʦ�������ͬѧ�İ��衣������(�ĵ�)�������Ȱ�����Ȼ��Ҳϲ�����㡣</p>
-            <p>���㣺���۵�ͬѧ�����ѣ�����ɼ�����������º͡����ú�ƽ��Ҳ�����㽶����δ�������ȱ�����н�񱣬������С���������������������ֻ��ĸ軹�����ƻ�����������趨������ˣ���</p>
-            <p>С��1964��2��29���������۵�ͬѧ����ʾ��ǿ���Ҿ���ԣ��ϲ����Ū����ҫ��ˣС������</p>
-            <p>�ֻ���1964��6��15���������۵�ͬѧ����ǿ��׳���ó��˶���ϲ���������⿣�ˮƽ����ȴ���Ծ��������ǳ��裬û�����ܵ��ˡ��������������ģ������۸��ˣ�������ۣ�����̻���Լ������á��ŵ����¸ҡ�������С�</p>
+            <p>关于蓝胖子的介绍</p>
+            <p>下面介绍一下蓝胖子的来历和它的好朋友，你愿意听吗？</p>
+            <p>（现在开始介绍）</p>
+            <p>哆啦A梦是2112年9月3日在松芝机器工厂（マツシバ工場，MATSUSHIBA）出生的猫型机器人。2115年1月19日，哆啦A梦开始帮忙照顾世修。虽然哆啦A梦自夸是优秀的保母机器猫，但是在看到铜锣烧的時候不顾小朋友就直接奔去吃！把铜锣烧看得比小孩还重要的话，还真是不能放心哪。2112年9月2日，哆啦A夢吃完铜锣烧正在午睡。结果，耳朵却被老鼠给咬掉啦！从此之后，哆啦A梦就很怕老鼠了。2122年9月2日，女朋友哆啦咪子特地带花来探病，结果却因为哆啦A梦完全沒了耳朵而笑翻。哆啦A梦好难过，身体便变成蓝色。之后，哆啦A梦便受世修之托回來 21 世纪照顾大雄，因此哆啦A梦在作品中的年龄跟大雄一样是10岁。</p>
+            <p>蓝胖子的好朋友</p>
+            <p>大雄：1964年8月7日出生。原作为小学4年级的学生，动画版为小学5年级。哆啦A梦负责照顾的对象。又笨又懒，功课、体育也不好，也因个性懦弱、懒惰而常受师长的责骂及同学的霸凌。但本性(心地)善良，热爱大自然，也喜欢静香。</p>
+            <p>静香：大雄的同学兼朋友，读书成绩优秀兼性情温和。爱好和平。也是其憧憬对象和未来的新娘。缺点是有洁癖，而且拉小提琴拉出的琴声甚至比胖虎的歌还具有破坏力。（最初设定并非如此）。</p>
+            <p>小夫：1964年2月29日生。大雄的同学。显示欲强。家境富裕，喜好卖弄、炫耀、耍小聪明。</p>
+            <p>胖虎：1964年6月15日生。大雄的同学。身强力壮。擅长运动。喜欢唱歌和烹饪，水平极差却不自觉。尢其是唱歌，没有人受得了。有严重自我中心，经常欺负人（尤其大雄），并袒护自己的妹妹。优点是勇敢、有正义感。</p>
         </div>
     </div>
 </body>
